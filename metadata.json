@@ -1,0 +1,5 @@
+{
+  "name": "Secure Local Password Vault",
+  "description": "A secure, local-only password manager that encrypts your data in your browser.",
+  "requestFramePermissions": []
+}
